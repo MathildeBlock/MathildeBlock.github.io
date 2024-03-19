@@ -10,6 +10,7 @@ In this week, we will be working on a short data story. The data set contains in
 ![alt text](image.png)
 
 ## Map
+<iframe src="map.html" width="100%" height="500px"></iframe>
 
 ## Interactive visualization
 
