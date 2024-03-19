@@ -1,9 +1,0 @@
-{
-  "lang": "en-US",
-  "name": "Cool website",
-  "short_name": "Coolwebsite",
-  "theme_color": "#24292e",
-  "background_color": "#ffffff",
-  "start_url": "/",
-  "display": "standalone"
-}
