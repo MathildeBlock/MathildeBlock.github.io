@@ -1,0 +1,33 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Look here",
+        "excerpt": ":)\n",
+        "content": ":)\n",
+        "url": "/2024/03/12/welcome-to-jekyll.html"
+      },
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "\n",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com\n\nYou can find the source code for Minima at GitHub:\njekyll /\nminima\n\nYou can find the source code for Jekyll at GitHub:\njekyll /\njekyll\n\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Data",
+    "excerpt": "\n",
+    "content": "TODO: cool data analysis here\n\nHere is an inline math: \\(a^2 + b^2 = c^2\\)\n\nHere is a block math:\n\n\\[\nE = mc^2\n\\]\n",
+    "url": "/data/"
+  }
+  
+]
+
