@@ -33,10 +33,10 @@ The map shows the crimescenes for the first minute of 2011, here we see that the
 
 ## Interactive visualization
 
-<iframe src="/crime_by_hour_plot.html" width="600" height="450" frameborder="0"></iframe>
+<iframe src="/crime_by_hour_plot.html" width="100%" height="450" frameborder="0"></iframe>
 
 ## Conclusion
 This all goes to show this clear tendency for increased crime on new years that is mentioned in the first article by Suzanne Phan. This is an unfortunate trend and one that the SF police department is well aware of. The article [San Francisco police out in force for New Year’s](https://www.sandiegouniontribune.com/sdut-san-francisco-police-out-in-force-for-new-years-2010dec31-story.html) by the associated press from 2010, adresses the issue and certain measures taken to try and prevent the amount of crimes being committed. They mention free public transportation all night to try and prevent people from driving under the influence in combination with more police officers, in both uniform and plain clothes, to try to control the crowds.
 By our findings it is difficult to say if these measures have had any effect, as an increase in police officers might just have resulted in more crimes being reported.
 Alone putting more police out on the streets, and making them visible, is assumed by the SF police department to make a safer city, but as seen in an experimental study in Britain, incresing the level of foot patrol showed no reductions in crime.
-[Can Police Prevent Crime?](https://research-repository.griffith.edu.au/bitstream/handle/10072/14627/Bryett_chapter.pdf?sequence=1). This is supported in the still very high crime numbers each new years, even years after 2010 when the increasing of police was introduced.
+[Can Police Prevent Crime?](https://research-repository.griffith.edu.au/bitstream/handle/10072/14627/Bryett_chapter.pdf?sequence=1). This is supported in the still very high crime numbers each new years, even years after 2010 when the increased policing was introduced. It can, however, ensure that more of the criminals are arrested and that this has led to the increased number of filed crimes.
