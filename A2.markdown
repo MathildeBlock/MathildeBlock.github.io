@@ -23,9 +23,10 @@ We explore the dataset by looking at the number of crimes filed in the city of S
 
 From the plot, a general tendency appeared each year on new years. An increase in crime in San Fransisco, every year consistently. Why is this and what is being done to try to break this pattern of crime? 
 Accoring to ABC News, San Fransisco makes an attractive target on new years for criminals from all over due to the large gathering of people, looking to enjoy the festivities and fire works. As many as 150.000 people show up each year, and with crowds of this size comes an increased risk of drunken brawls and opportunities for pick pockets and the like. This claim is supported by a threat assessment obtained by ABC News, that also takes the increased possibility of terrorist attacks into account. 
-[Link to Article](https://abc7news.com/san-francisco-new-years-eve-fbi-threat-assessment-report-security-safety/14232677/) 
+[San Francisco makes 'attractive target' on New Year's Eve: FBI report](https://abc7news.com/san-francisco-new-years-eve-fbi-threat-assessment-report-security-safety/14232677/) 
 
 ## Map
+
 {% include map2.html %}
 
 The map shows the crimescenes for the first minute of 2011, here we see that there is no singular "hot spot" for these crimes being comitted. This proves that it is a more general problem on new years and not just a crowd gathered at one spot each year causing trouble.
@@ -35,6 +36,6 @@ The map shows the crimescenes for the first minute of 2011, here we see that the
 From the time plot /ref, that illustrates how and when the crimes are being registered in the first 24 hours in the new year, it is bla bla bla noget om det plot 
 
 ## Conclusion
-This all goes to show this clear tendency for increased crime on new years that is mentioned in the first article by Suzanne Phan. This is an unfortunate trend and one that the SF police department is well aware of. This article by the associated press from 2010, already adresses the issue and certain measures taken to try and prevent the amount of crimes being committed. Free public transportation all night to try and prevent people from driving under the influence in combination with more police officers, in both uniform and plain clothes, to try to control the crowds. [Link](https://www.sandiegouniontribune.com/sdut-san-francisco-police-out-in-force-for-new-years-2010dec31-story.html)
+This all goes to show this clear tendency for increased crime on new years that is mentioned in the first article by Suzanne Phan. This is an unfortunate trend and one that the SF police department is well aware of. This article by the associated press from 2010, already adresses the issue and certain measures taken to try and prevent the amount of crimes being committed. Free public transportation all night to try and prevent people from driving under the influence in combination with more police officers, in both uniform and plain clothes, to try to control the crowds. [San Francisco police out in force for New Year’s](https://www.sandiegouniontribune.com/sdut-san-francisco-police-out-in-force-for-new-years-2010dec31-story.html)
 Alone putting more police out on the streets, and making them visible, is assumed by the SF police department to make a safer city, but as seen in an experimental study in Britain, incresing the level of foot patrol showed no reductions in crime.
-[Link](https://research-repository.griffith.edu.au/bitstream/handle/10072/14627/Bryett_chapter.pdf?sequence=1) This is supported in the still very high crime numbers each new years, even years after 2010 when the increasing of police was introduced.
+[Can Police Prevent Crime?](https://research-repository.griffith.edu.au/bitstream/handle/10072/14627/Bryett_chapter.pdf?sequence=1) This is supported in the still very high crime numbers each new years, even years after 2010 when the increasing of police was introduced.
