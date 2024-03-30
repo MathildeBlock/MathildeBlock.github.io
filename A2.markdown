@@ -32,7 +32,7 @@ We find that the day with the most reportings of crime was the first of January 
 The map shows the crimescenes for the first minute of 2011, here we see that there is no singular "hot spot" for these crimes being comitted. This proves that it is a more general problem on new years and not just a crowd gathered at one spot each year causing trouble.
 
 ## Interactive visualization
-
+We make an interactive visualization over all new year's eves and days, to inspect what crimes occur.
 <iframe src="/crime_by_hour_plot.html" style="max-width: 100%; width: 100%;" height="450" frameborder="0"></iframe>
 
 ## Conclusion
