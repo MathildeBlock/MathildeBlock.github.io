@@ -13,19 +13,11 @@ This is an assignment for 02806 - Social data analysis and visualization. The da
 
 ## Timeseries
 We explore the dataset by looking at the number of crimes filed in the city of San Francisco. We see that the number of crimes filed is increasing over the years. This could be due to the increase in population in the city.
-![alt text](calplot.png "Calendar plot")
+![Calendar plot](calplot.png)
 
 ## Map
-<iframe src="map2.html" width="100%" height="400px"></iframe>
+<iframe src="file:///C:/Users/Mathilde/Documents/DTU/F24/SocialData/Exercises/map.html" width="100%" height="400px"></iframe>
 
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="map2.html">
-  </iframe>
-</div>
 
 ## Interactive visualization
 
