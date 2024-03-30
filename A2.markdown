@@ -38,6 +38,28 @@ We make an interactive visualization over all new year's eves and days, to inspe
          style="overflow:hidden; 
          display:block; position: absolute; height: 100%; width: 100%"><iframe>
 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 This visualization gives a clear image of the crimes recorded surrounding new years in San Fransisco and shows a very clear tendency for prostituion around midnight. This could be due to the many celebrations, toursist and the like. The interactive visualization also shows a rise in robberies around midnight - with many people gathering to watch the fireworks it is very likely that robbers will use this opportunity to gain access to easy targets otherwise distracted.
 
 ## Conclusion
