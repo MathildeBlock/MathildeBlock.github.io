@@ -18,7 +18,7 @@ We explore the dataset by looking at the number of crimes filed in the city of S
 ## Map
 
 ```html
-<iframe src="map.html" width="100%" height="400px"></iframe>
+<iframe src="map2.html" width="100%" height="400px"></iframe>
 ```
 ## Interactive visualization
 
