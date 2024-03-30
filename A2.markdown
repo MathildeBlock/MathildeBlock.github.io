@@ -33,7 +33,7 @@ The map shows the crimescenes for the first minute of 2011, here we see that the
 
 ## Interactive visualization
 We make an interactive visualization over all new year's eves and days, to inspect what crimes occur.
-<iframe src="/crime_by_hour_plot.html" frameborder="0" style="height:400px;width:1000px;border:none;"></iframe>
+<iframe src="/crime_by_hour_plot.html"></iframe>
 
 ## Conclusion
 This all goes to show this clear tendency for increased crime on new years that is mentioned in the first article by Suzanne Phan. This is an unfortunate trend and one that the SF police department is well aware of. The article [San Francisco police out in force for New Year’s](https://www.sandiegouniontribune.com/sdut-san-francisco-police-out-in-force-for-new-years-2010dec31-story.html) by the associated press from 2010, adresses the issue and certain measures taken to try and prevent the amount of crimes being committed. They mention free public transportation all night to try and prevent people from driving under the influence in combination with more police officers, in both uniform and plain clothes, to try to control the crowds.
