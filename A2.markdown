@@ -34,9 +34,7 @@ The map shows the crimescenes for the first minute of 2011, here we see that the
 ## Interactive visualization
 We make an interactive visualization over all new year's eves and days, to inspect what crimes occur.
 
-<iframe src="/crime_by_hour_plot.html" frameborder="0" 
-         style="overflow:hidden; 
-         display:block; position: absolute; height: 600; width: 100%"><iframe>
+<iframe src="/crime_by_hour_plot.html" frameborder="0" style="overflow:hidden; display:block; position: absolute; width: 100%; height: 450px; top: 0;"></iframe>
 
 
 This visualization gives a clear image of the crimes recorded surrounding new years in San Fransisco and shows a very clear tendency for prostituion around midnight. This could be due to the many celebrations, toursist and the like. The interactive visualization also shows a rise in robberies around midnight - with many people gathering to watch the fireworks it is very likely that robbers will use this opportunity to gain access to easy targets otherwise distracted.
