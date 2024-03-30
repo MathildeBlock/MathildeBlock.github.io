@@ -3,6 +3,11 @@ layout: page
 title: A2 - A short data story
 permalink: /A2/
 ---
+**Authors**
+* s183624
+* s204201
+* s194666
+
 ## Introduction
 This is an assignment for 02806 - Social data analysis and visualization. The dataset contains information about the police department in the city of San Francisco, California.
 
