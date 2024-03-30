@@ -27,14 +27,14 @@ According to ABC News, San Fransisco makes an attractive target on new years for
 ## Map
 We find that the day with the most reportings of crime was the first of January 2011. When investigating this day, we discover that 176 crimes was filed in the first minute. This minute is visualized by the following map:
 
-<iframe src="/map.html" width="600" height="450" frameborder="0"></iframe>
+<iframe src="/map.html" width = "100%" height="450" frameborder="0"></iframe>
 
 The map shows the crimescenes for the first minute of 2011, here we see that there is no singular "hot spot" for these crimes being comitted. This proves that it is a more general problem on new years and not just a crowd gathered at one spot each year causing trouble.
 
 ## Interactive visualization
 We make an interactive visualization over all new year's eves and days, to inspect what crimes occur.
 
-<iframe src="/crime_by_hour_plot.html" frameborder="0" style="overflow:hidden; display:block; position: absolute; width: 100%; height: 450px; top: 0;"></iframe>
+<iframe src="/crime_by_hour_plot.html" frameborder="0" width = "100%" height = "600"></iframe>
 
 
 This visualization gives a clear image of the crimes recorded surrounding new years in San Fransisco and shows a very clear tendency for prostituion around midnight. This could be due to the many celebrations, toursist and the like. The interactive visualization also shows a rise in robberies around midnight - with many people gathering to watch the fireworks it is very likely that robbers will use this opportunity to gain access to easy targets otherwise distracted.
