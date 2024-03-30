@@ -3,14 +3,13 @@ layout: page
 title: A2 - A short data story
 permalink: /A2/
 ---
+This is an assignment for 02806 - Social data analysis and visualization, written by:
 **Authors**
 * s183624
 * s204201
 * s194666
 
 ## Introduction
-This is an assignment for 02806 - Social data analysis and visualization. 
-
 This webpage aims to present the data visualizations and investigations of crimes in San Francisco. The storytelling is based on the data set from data.sfgov.org. 
 The data set contains information about the time and date of the crimes, the location of the crime and the type of crime among other attributes, however these attributes are of major interest for the further investigations. 
 In the process of diving into the data and its hidden patterns, New Years Eve has become a point of interest. 
@@ -27,13 +26,12 @@ Accoring to ABC News, San Fransisco makes an attractive target on new years for 
 
 ## Map
 
-{% include map2.html %}
+<iframe src="map.html" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 The map shows the crimescenes for the first minute of 2011, here we see that there is no singular "hot spot" for these crimes being comitted. This proves that it is a more general problem on new years and not just a crowd gathered at one spot each year causing trouble.
 
 ## Interactive visualization
 
-From the time plot /ref, that illustrates how and when the crimes are being registered in the first 24 hours in the new year, it is bla bla bla noget om det plot 
 
 ## Conclusion
 This all goes to show this clear tendency for increased crime on new years that is mentioned in the first article by Suzanne Phan. This is an unfortunate trend and one that the SF police department is well aware of. This article by the associated press from 2010, already adresses the issue and certain measures taken to try and prevent the amount of crimes being committed. Free public transportation all night to try and prevent people from driving under the influence in combination with more police officers, in both uniform and plain clothes, to try to control the crowds. [San Francisco police out in force for New Year’s](https://www.sandiegouniontribune.com/sdut-san-francisco-police-out-in-force-for-new-years-2010dec31-story.html)
