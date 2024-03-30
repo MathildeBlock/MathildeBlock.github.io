@@ -9,7 +9,13 @@ permalink: /A2/
 * s194666
 
 ## Introduction
-This is an assignment for 02806 - Social data analysis and visualization. The dataset contains information about the police department in the city of San Francisco, California.
+This is an assignment for 02806 - Social data analysis and visualization. 
+
+This webpage aims to present the data visualizations and investigations of crimes in San Francisco. The storytelling is based on the data set from data.sfgov.org. 
+The data set contains information about the time and date of the crimes, the location of the crime and the type of crime among other attributes, however these attributes are of major interest for the further investigations. 
+In the process of diving into the data and its hidden patterns, New Years Eve has become a point of interest. 
+Reading further on this webpage, you will discover the criminal patterns in the city of San Francisco on New Years eve, and discover, that the night of partying and celebrating new beginnings is also a night full of crimes. 
+To support the findings, calendar plots showing the crime occurrences over the years are illustrated along with an interactive maps and finally ..............
 
 ## Timeseries
 We explore the dataset by looking at the number of crimes filed in the city of San Francisco in a calendar plot.
@@ -20,7 +26,7 @@ Accoring to ABC News, San Fransisco makes an attractive target on new years for 
 [Link to Article](https://abc7news.com/san-francisco-new-years-eve-fbi-threat-assessment-report-security-safety/14232677/) 
 
 ## Map
-<!-- {% include map2.html %} -->
+{% include map2.html %}
 
 The map shows the crimescenes for the first minute of 2011, here we see that there is no singular "hot spot" for these crimes being comitted. This proves that it is a more general problem on new years and not just a crowd gathered at one spot each year causing trouble.
 
