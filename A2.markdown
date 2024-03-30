@@ -20,7 +20,7 @@ Accoring to ABC News, San Fransisco makes an attractive target on new years for 
 [Link to Article](https://abc7news.com/san-francisco-new-years-eve-fbi-threat-assessment-report-security-safety/14232677/) 
 
 ## Map
-{% include map2.html %}
+<!-- {% include map2.html %} -->
 
 The map shows the crimescenes for the first minute of 2011, here we see that there is no singular "hot spot" for these crimes being comitted. This proves that it is a more general problem on new years and not just a crowd gathered at one spot each year causing trouble.
 
