@@ -1,16 +1,32 @@
 ---
 layout: page
-title: Babydoom Project
+title: Evolution of Motherhood in Denmark
 permalink: /Project/
 ---
 
-## Babydoom - A data analysis of the Danish birth rate
+## Babydoom - Exploring the Evolution of Motherhood: Unveiling Trends in Denmark
 Every day in the media we hear about the declining birth rate in Denmark. In this project we will investigate the reasons behind this trend. We will look at the data and try to find out if there are any patterns or correlations that can explain the declining birth rate. We will also look at the consequences of the declining birth rate and discuss what can be done to reverse the trend.
 
 # Data
 The data we will use in this project is from Statistics Denmark. We will use data from the last 17 years to see if we can find any patterns or correlations that can explain the declining birth rate. The data includes age of the mother, area of residence and year.
 
-One of the points we hear often is that women wait too long to have children. We have made an interactive plot, where you can see the number of births for each age group - where the year can be changed. This plot can be seen below.
+For a start let's look at the number of births in Denmark over the last 17 years. To see how bad it really is, we have made a plot showing the total number of births for each year. The plot can be seen below. Notice that the plot is zoomed in on the y-axis to make it easier to see the differences between the years.
+![Total Births](total_births.png)
+
+From the plot we can see that the number of births fluctuate over the years, and we see the least amount of births in 2013. We found this interesting, since we didn't expect it. We found that a likely explanation for this drop in 2012, 2013 and 2014 is that there were less women born in the 80's, which is the age group that has the most children. [Artikel om færre fødsler i 80'erne](...)
+
+We also see a slight increase in the number of births in 2021, which we expect is due to the corona pandemic. The decrease in births in 2009 we suspect are from the financial crisis.
+We can of course see that the number of births in 2007 was higher than in 2023, but because of the variation in the number of births over the years, we don't find it obvious that the birth rate is declining and that the population is shrinking.
+
+
+To further investigate we wanted to see if the pattern where the same for all parts of Denmark, so we made a plot showing the number of births for each region. The plot can be seen below.
+![Births per region](regions_births.png)
+
+Here we see that ....
+
+
+
+Another aspect we wanted to investigate was the age of the mothers. As one of the arguments we hear often is that women wait too long to have children, which makes it harder to get pregnant naturally. We have made an interactive plot, where you can see the number of births for each age group - where the year can be changed. This plot can be seen below.
 <iframe src="/births_vs_age.html" width = "100%" height="600" frameborder="0"></iframe>
 
 When looking at the data we can see that women in the 2000's generally are younger than now. We also see that in the start of the 2010's women around 30 had less children than other years, this might be because there are less women born in the 80's. 
