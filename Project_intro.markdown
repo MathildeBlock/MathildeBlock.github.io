@@ -50,7 +50,7 @@ Another aspect we wanted to investigate was the age of the mothers. As one of th
 
 
 <div style="width: 1250px; margin-left:-100px; margin-bottom:-100px;">
-<iframe src="/births_vs_age.html" width="1000px" height="800px" frameborder="0"></iframe>
+<iframe src="/births_vs_age.html" width="1100px" height="800px" frameborder="0"></iframe>
 </div>
 
 One thing that has stayed consistent is the age distribution of the birthing parent. Nicely, normally distributed around the age of 30, which makes sense when looking at what age most women are done with their education. In this day and age, many don't want to mix their studies with having children. For the first time in many years, the opportunities for women in the labor market are very lucrative and it is no longer frowned upon for a woman to choose to go for a higher level of education. This is an opportunity taken by many and this could result in the falling number of births. Together with the rise in awareness of how babies affect the climate and with so much uncertainty on what the future holds in regards to climate and war, many women are either waiting longer or choosing to be childfree altogether.(https://www.sciencedaily.com/releases/2021/04/210421160016.htm)
@@ -69,7 +69,7 @@ This is also shown in the plot below, where we have calculated the mean age of t
 We wanted to explore the age of the mothers in the different municipalities, so we made a plot showing how many children are born to mothers of different ages in the different municipalities. The plot is interactive, so you can click on the different ages to see the number of births for each municipality. The plot can be seen below.
 
 <div style="width: 1200px; margin-left:-150px;">
-<iframe src="/birth_count_map.html" width="1200px" height="800px"></iframe>
+<iframe src="/birth_count_map.html" width="1200px" height="850px"></iframe>
 </div>
 
 We find that the age of the mothers is generally higher in the larger cities, which is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and population density. We observe that women generally are younger moms in Jutland. Please explore the map, to find out more about the age of the mothers in the different municipalities. Notice that when municipalities are white, it is because there are no births for that municipality in that age group.
