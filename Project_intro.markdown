@@ -24,7 +24,6 @@ Another explanation is that financial conditions for families worsened due to po
 
 
 
-
 We also see a slight increase in the number of births in 2021, which we expect is due to the corona pandemic - couples are more home and have the opportunity to work from home and therefore decide to get a baby as the possibility to take care of it is larger. The decrease in births in 2009 we suspect is due to the financial crisis, making it less likely to have children, due to the associated expenses.
 We chose to fit a line to the data to see the trend over the years. We see that the trend is declining, which is what we expected, based on headlines in the media. The number of births in Denmark has generally been very inconsistent, with some years 195000 births and then with years such as 2013 where less than 170000 children were born. Such inconsistent and declining birth rates, especially combined with a higher and growing lifespan, gives many people concerns about the population: who will take care of the many elders if there are no young people? Many elders come with a high cost to society, so who will pay for this if no young people are earning money? The elders in the Danish welfare system depend on their own tax money, however they also depend a lot on the tax paid by the coming generations, which have to keep the sails of the welfare system flowing.
 For this the young population is questioned continuously and even called traitors by right wing politicians. [Thomsen W. D. C., Wulf A. S., Andersen J. L.,  Information.dk, 2024](https://www.information.dk/debat/2024/04/slags-stille-landsforraederi-naar-ressourcestaerke-danskere-fravaelger-faa-boern)
@@ -38,12 +37,9 @@ Here we see that the general tendency for Copenhagen actually is inclining inste
 Generally there is also a clear tendency that the bigger the city, the higher the educational level and with this, a higher age for motherhood. This is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and it is also in these larger cities that cultural movements typically reside, which leads to better awareness of social issues. (https://www.tv2kosmopol.dk/lorryland/kobenhavnerne-er-mere-bekymrede-klimaet-end-resten-af-danmark)
 
 
-To look more closely at the different municipalites, we found the percentage of women in a fertile age (15-49), who give birth every year. This can be seen in the plot below. The plot is interactive, so you can choose the year you want to look at. 
-<div style="width: 1200px; margin-left:-150px;">
-<iframe src="/Birth_percentage.html" width="1200px" height="800px"></iframe>
-</div>
+To look more closely at the different municipalites, we have made an choropleth map over the different municipalities in Denmark. The map can be seen below. The map shows the number of births for each municipality in 2020. The map is interactive, so you can click on the different municipalities to see the number of births for each municipality.
 
-
+![Births per municipality](birthsindk.png)
 
 # Age of the mothers
 Another aspect we wanted to investigate was the age of the mothers. As one of the arguments we hear often is that women wait too long to have children, which makes it harder to get pregnant naturally. We have made an interactive plot, where you can see the number of births for each age group - where the year can be changed. This plot can be seen below.
@@ -67,14 +63,14 @@ This is also shown in the plot below, where we have calculated the mean age of t
 
 
 
-#Income 
+# Income 
 As an addition to the previously addressed subjects related to birth rates, we chose to dive into income related data in the Danish Municipalities, to gain insight into the incomes for couples with and without children based on education levels. As the plot of Income Comparison between different municipalities suggest, there is a higher income in the larger cities, which can both indicate that more men and women earn more money due to better and more available jobs, as well as the fact that salaries are usually higher in bigger cities. However, the higher income levels in municipalities should also correlate with increased birth rates, as observed in larger cities. This may, however, also be associated with the population density. 
 
 
 ![Income](income.png)
 
 
-#Interventions on Reverting the Downward Trend
+# Interventions on Reverting the Downward Trend
 During recent years the women of modern societies have tried to break up the traditional roles and view of the women, as being a housekeeping wife and mother only being present to take care of the household tasks and giving birth to children. Times have evolved, and especially young women strive more towards financial freedom and stability as well as closing the gender gap between men and women. Hence, women educate themselves into their mid-/late twenties, which is also where their fertility starts becoming worse, and decreases the monthly chance of conceiving. To conclude on the trends seen in birth rates, it would be necessary for politicians to come up with interventions that make the society fit to the fertility, to avoid the descending birth rate going out of control. 
 
 
