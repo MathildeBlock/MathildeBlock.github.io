@@ -14,6 +14,7 @@ The data we will use in this project is from Statistics Denmark. We will use dat
 
 # How bad is it really?
 For a start let's look at the number of births in Denmark over the last 17 years. To see how the actual situation concerning birth rates really is, we have made a plot showing the total number of births for each year. The plot can be seen below. Notice that the plot is zoomed in on the y-axis to make it easier to see the differences between the years.
+
 ![Total Births](total_births+fit.png)
 
 
@@ -87,10 +88,12 @@ During recent years the women of modern societies have tried to break up the tra
 
 
 
+# Explainer notebook
+[Link to Explainer notebook](https://github.com/MathildeBlock/MathildeBlock.github.io/blob/main/explainer_notebook.ipynb)
 
+
+# Credits
 This is our final project for 02806 - Social data analysis and visualization, written by:
-
-
 **Authors**
 * s183624
 * s204201
