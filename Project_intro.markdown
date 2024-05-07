@@ -7,20 +7,14 @@ permalink: /Project/
 ## Babydoom
 During the 2020’s the media has had a huge focus on the declining birth rate in Denmark as well as the ascent in the average age of birth giving women. In this project we will investigate this trend and delve into the regional patterns of child birth over time. We will look at data from the Danish statistics repository, Danmarks Statistik, with the aim of trying to find out if there are any patterns or correlations that can explain the declining birth rate. We will also look at the consequences of and reasons for the declining birth rate and discuss this downward trend.
 
-
-# Data
-The data we will use in this project is from Statistics Denmark. We will use data from the last 17 years to see if we can find any patterns or correlations that can explain the declining birth rate. The data includes age of the mother, area of residence and year.
-
-
 # How bad is it really?
 For a start let's look at the number of births in Denmark over the last 17 years. To see how the actual situation concerning birth rates really is, we have made a plot showing the total number of births for each year. The plot can be seen below. Notice that the plot is zoomed in on the y-axis to make it easier to see the differences between the years.
 
 ![Total Births](total_births+fit.png)
 
-
 From the plot we can see that the number of births fluctuate over the years, and we see the least amount of births is in 2013. Such a stark decline is very interesting to look into as it was not something that we had heard about in the media. We found that a likely explanation for this drop in 2012, 2013 and 2014 is that there were less women born in the 80's, which is now the women in a childbearing age. This is according to [Folkeskolen.dk: Fødselstallet bølger op og ned](https://www.folkeskolen.dk/folkeskolen-nr-13-2019-kommunal-okonomi-skolen-i-samfundet/fodselstallet-bolger-op-og-ned/1387193)
 Another explanation is that financial conditions for families worsened due to political regulations.
-[TV2.dk Børnetal i Danmark falder fortsat](https://nyheder.tv2.dk/sundhed/2012-07-10-boernetal-i-danmark-falder-fortsat)
+[TV2.dk: Børnetal i Danmark falder fortsat](https://nyheder.tv2.dk/sundhed/2012-07-10-boernetal-i-danmark-falder-fortsat)
 
 
 
@@ -36,7 +30,7 @@ To further investigate we wanted to see if the pattern was the same for all part
 Here we see that the general tendency for Copenhagen actually is inclining instead of the expected decline, which is what is happening in all other regions. 
 This is an example of Simpson’s paradox, which is a phenomenon, where a trend appears in several groups of data but disappears or reverses when the groups are combined.
 This can be due to more people living in Copenhagen now, with many who have moved here from the other regions these last couple of years.
-Generally there is also a clear tendency that the bigger the city, the higher the educational level and with this, a higher age for motherhood. This is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and it is also in these larger cities that cultural movements typically reside, which leads to better awareness of social issues. (https://www.tv2kosmopol.dk/lorryland/kobenhavnerne-er-mere-bekymrede-klimaet-end-resten-af-danmark)
+Generally there is also a clear tendency that the bigger the city, the higher the educational level and with this, a higher age for motherhood. This is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and it is also in these larger cities that cultural movements typically reside, which leads to better awareness of social issues. [tv2kosmopol: Københavnerne er mere bekymrede for klimaet end resten af Danmark](https://www.tv2kosmopol.dk/lorryland/kobenhavnerne-er-mere-bekymrede-klimaet-end-resten-af-danmark)
 
 
 To look more closely at the different municipalites, we have made an choropleth map over the different municipalities in Denmark. The map can be seen below. The map shows the number of births for each municipality in 2020. The map is interactive, so you can click on the different municipalities to see the number of births for each municipality.
@@ -53,7 +47,7 @@ Another aspect we wanted to investigate was the age of the mothers. As one of th
 <iframe src="/births_vs_age.html" width="1100px" height="800px" frameborder="0"></iframe>
 </div>
 
-One thing that has stayed consistent is the age distribution of the birthing parent. Nicely, normally distributed around the age of 30, which makes sense when looking at what age most women are done with their education. In this day and age, many don't want to mix their studies with having children. For the first time in many years, the opportunities for women in the labor market are very lucrative and it is no longer frowned upon for a woman to choose to go for a higher level of education. This is an opportunity taken by many and this could result in the falling number of births. Together with the rise in awareness of how babies affect the climate and with so much uncertainty on what the future holds in regards to climate and war, many women are either waiting longer or choosing to be childfree altogether.(https://www.sciencedaily.com/releases/2021/04/210421160016.htm)
+One thing that has stayed consistent is the age distribution of the birthing parent. Nicely, normally distributed around the age of 30, which makes sense when looking at what age most women are done with their education. In this day and age, many don't want to mix their studies with having children. For the first time in many years, the opportunities for women in the labor market are very lucrative and it is no longer frowned upon for a woman to choose to go for a higher level of education. This is an opportunity taken by many and this could result in the falling number of births. Together with the rise in awareness of how babies affect the climate and with so much uncertainty on what the future holds in regards to climate and war, many women are either waiting longer or choosing to be childfree altogether. [ScienceDaily: Why climate change is driving some to skip having kids](https://www.sciencedaily.com/releases/2021/04/210421160016.htm)
 Not to even mention the fall in sperm count and quality in men. This combined with all mentioned previously could also be a reason for the higher age of mothers.
 
 
@@ -69,7 +63,7 @@ This is also shown in the plot below, where we have calculated the mean age of t
 We wanted to explore the age of the mothers in the different municipalities, so we made a plot showing how many children are born to mothers of different ages in the different municipalities. The plot is interactive, so you can click on the different ages to see the number of births for each municipality. The plot can be seen below.
 
 <div style="width: 1200px; margin-left:-150px;">
-<iframe src="/birth_count_map_small.html" width="1200px" height="850px"></iframe>
+<iframe src="/birth_count_map.html" width="1200px" height="850px" frameborder="0"></iframe>
 </div>
 
 We find that the age of the mothers is generally higher in the larger cities, which is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and population density. We observe that women generally are younger moms in Jutland. Please explore the map, to find out more about the age of the mothers in the different municipalities. Notice that when municipalities are white, it is because there are no births for that municipality in that age group.
@@ -85,8 +79,8 @@ As an addition to the previously addressed subjects related to birth rates, we c
 During recent years the women of modern societies have tried to break up the traditional roles and view of the women, as being a housekeeping wife and mother only being present to take care of the household tasks and giving birth to children. Times have evolved, and especially young women strive more towards financial freedom and stability as well as closing the gender gap between men and women. Hence, women educate themselves into their mid-/late twenties, which is also where their fertility starts becoming worse, and decreases the monthly chance of conceiving. To conclude on the trends seen in birth rates, it would be necessary for politicians to come up with interventions that make the society fit to the fertility, to avoid the descending birth rate going out of control.
 
 
-
-
+# Data
+The data used in this project is from [Statistics Denmark](www.statistikbanken.dk).
 
 # Explainer notebook
 For some reason, when the notebook is hosted on nb-viewer some of the plots doesn't show. We have therefore included a link to the notebook on github, where all the plots are shown.
@@ -98,7 +92,7 @@ For some reason, when the notebook is hosted on nb-viewer some of the plots does
 
 # Credits
 This is our final project for 02806 - Social data analysis and visualization, written by:
-**Authors**
+
 * s183624
 * s204201
 * s194666
