@@ -49,7 +49,7 @@ To look more closely at the different municipalites, we have made an choropleth 
 Another aspect we wanted to investigate was the age of the mothers. As one of the arguments we hear often is that women wait too long to have children, which makes it harder to get pregnant naturally. We have made an interactive plot, where you can see the number of births for each age group - where the year can be changed. This plot can be seen below.
 
 
-<div style="width: 1250px; margin-left:-100px; margin-bottom:-100px;">
+<div style="width: 1250px; margin-left:-100px; margin-bottom:-200px;">
 <iframe src="/births_vs_age.html" width="1100px" height="800px" frameborder="0"></iframe>
 </div>
 
@@ -69,7 +69,7 @@ This is also shown in the plot below, where we have calculated the mean age of t
 We wanted to explore the age of the mothers in the different municipalities, so we made a plot showing how many children are born to mothers of different ages in the different municipalities. The plot is interactive, so you can click on the different ages to see the number of births for each municipality. The plot can be seen below.
 
 <div style="width: 1200px; margin-left:-150px;">
-<iframe src="/birth_count_map.html" width="1200px" height="850px"></iframe>
+<iframe src="/birth_count_map_small.html" width="1200px" height="850px"></iframe>
 </div>
 
 We find that the age of the mothers is generally higher in the larger cities, which is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and population density. We observe that women generally are younger moms in Jutland. Please explore the map, to find out more about the age of the mothers in the different municipalities. Notice that when municipalities are white, it is because there are no births for that municipality in that age group.
