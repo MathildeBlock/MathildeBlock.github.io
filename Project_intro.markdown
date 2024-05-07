@@ -64,7 +64,7 @@ This is also shown in the plot below, where we have calculated the mean age of t
 
 
 
-<iframe src="/map.html" width="100%" height="800" frameborder="0" style="overflow-x: hidden; overflow-y: auto;"></iframe>
+<iframe src="/birth_map.html" width="100%" height="800" frameborder="0" style="overflow-x: hidden; overflow-y: auto;"></iframe>
 
 
 
