@@ -42,7 +42,7 @@ We wanted to investigate if women in different municipality.
 # Age of the mothers
 Another aspect we wanted to investigate was the age of the mothers. As one of the arguments we hear often is that women wait too long to have children, which makes it harder to get pregnant naturally. We have made an interactive plot, where you can see the number of births for each age group - where the year can be changed. This plot can be seen below.
 
-<iframe src="/births_vs_age.html" width="900" height="800" frameborder="0" style="overflow-x: hidden; overflow-y: hidden;"></iframe>
+<iframe src="/births_vs_age.html" width="1200" height="900" frameborder="0" style="overflow-x: hidden; overflow-y: hidden;"></iframe>
 
 When looking at the data we can see that women in the 2000's generally are younger than now. We also see that in the start of the 2010's women around 30 had less children than other years, this might be because there are less women born in the 80's. 
 
