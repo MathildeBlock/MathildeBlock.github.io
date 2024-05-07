@@ -89,7 +89,11 @@ During recent years the women of modern societies have tried to break up the tra
 
 
 # Explainer notebook
-[Link to Explainer notebook](https://github.com/MathildeBlock/MathildeBlock.github.io/blob/main/explainer_notebook.ipynb)
+For some reason, when the notebook is hosted on nb-viewer some of the plots doesn't show. We have therefore included a link to the notebook on github, where all the plots are shown.
+
+
+- [Link to Explainer notebook on nb-viewer](https://nbviewer.org/github/MathildeBlock/MathildeBlock.github.io/blob/main/explainer_notebook.ipynb)
+- [Link to Explainer notebook on github](https://github.com/MathildeBlock/MathildeBlock.github.io/blob/main/explainer_notebook.ipynb)
 
 
 # Credits
