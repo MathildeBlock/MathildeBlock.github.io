@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: Evolution of Motherhood in Denmark
 permalink: /Project/
@@ -33,7 +33,9 @@ To further investigate we wanted to see if the pattern was the same for all part
 ![Births per region](regions_births+fit.png)
 
 
-Here we see that the general tendency for Copenhagen actually is inclining instead of the expected decline, which is what is happening in all other regions. This can be due to more people living in Copenhagen now, with many who have moved here from the other regions these last couple of years.
+Here we see that the general tendency for Copenhagen actually is inclining instead of the expected decline, which is what is happening in all other regions. 
+This is an example of Simpson’s paradox, which is a phenomenon, where a trend appears in several groups of data but disappears or reverses when the groups are combined.
+This can be due to more people living in Copenhagen now, with many who have moved here from the other regions these last couple of years.
 Generally there is also a clear tendency that the bigger the city, the higher the educational level and with this, a higher age for motherhood. This is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and it is also in these larger cities that cultural movements typically reside, which leads to better awareness of social issues. (https://www.tv2kosmopol.dk/lorryland/kobenhavnerne-er-mere-bekymrede-klimaet-end-resten-af-danmark)
 
 
@@ -41,11 +43,13 @@ To look more closely at the different municipalites, we have made an choropleth 
 
 ![Births per municipality](birthsindk.png)
 
+
+
 # Age of the mothers
 Another aspect we wanted to investigate was the age of the mothers. As one of the arguments we hear often is that women wait too long to have children, which makes it harder to get pregnant naturally. We have made an interactive plot, where you can see the number of births for each age group - where the year can be changed. This plot can be seen below.
 
 
-<div style="width: 1300px; margin-left:-100px; margin-bottom:-100px;">
+<div style="width: 1250px; margin-left:-100px; margin-bottom:-100px;">
 <iframe src="/births_vs_age.html" width="1000px" height="800px"></iframe>
 </div>
 
@@ -62,25 +66,23 @@ This is also shown in the plot below, where we have calculated the mean age of t
 ![Mean age](mean_age.png)
 
 
+We wanted to explore the age of the mothers in the different municipalities, so we made a plot showing how many children are born to mothers of different ages in the different municipalities. The plot is interactive, so you can click on the different ages to see the number of births for each municipality. The plot can be seen below.
 
-# Income 
-As an addition to the previously addressed subjects related to birth rates, we chose to dive into income related data in the Danish Municipalities, to gain insight into the incomes for couples with and without children based on education levels. As the plot of Income Comparison between different municipalities suggest, there is a higher income in the larger cities, which can both indicate that more men and women earn more money due to better and more available jobs, as well as the fact that salaries are usually higher in bigger cities. However, the higher income levels in municipalities should also correlate with increased birth rates, as observed in larger cities. This may, however, also be associated with the population density. 
+<div style="width: 1200px; margin-left:-150px;">
+<iframe src="/birth_count_map.html" width="1200px" height="800px"></iframe>
+</div>
+
+We find that the age of the mothers is generally higher in the larger cities, which is not surprising as the largest cities have the most opportunities in regards to jobs after studies, studies and population density. We observe that women generally are younger moms in Jutland. Please explore the map, to find out more about the age of the mothers in the different municipalities. Notice that when municipalities are white, it is because there are no births for that municipality in that age group.
+
+# Income
+As an addition to the previously addressed subjects related to birth rates, we chose to dive into income related data in the Danish Municipalities, to gain insight into the incomes for couples with and without children based on education levels. As the plot of Income Comparison between different municipalities suggest, there is a higher income in the larger cities, which can both indicate that more men and women earn more money due to better and more available jobs, as well as the fact that salaries are usually higher in bigger cities. However, the higher income levels in municipalities should also correlate with increased birth rates, as observed in larger cities. This may, however, also be associated with the population density.
 
 
 ![Income](income.png)
 
 
 # Interventions on Reverting the Downward Trend
-During recent years the women of modern societies have tried to break up the traditional roles and view of the women, as being a housekeeping wife and mother only being present to take care of the household tasks and giving birth to children. Times have evolved, and especially young women strive more towards financial freedom and stability as well as closing the gender gap between men and women. Hence, women educate themselves into their mid-/late twenties, which is also where their fertility starts becoming worse, and decreases the monthly chance of conceiving. To conclude on the trends seen in birth rates, it would be necessary for politicians to come up with interventions that make the society fit to the fertility, to avoid the descending birth rate going out of control. 
-
-
-
-
-
-
-
-
-
+During recent years the women of modern societies have tried to break up the traditional roles and view of the women, as being a housekeeping wife and mother only being present to take care of the household tasks and giving birth to children. Times have evolved, and especially young women strive more towards financial freedom and stability as well as closing the gender gap between men and women. Hence, women educate themselves into their mid-/late twenties, which is also where their fertility starts becoming worse, and decreases the monthly chance of conceiving. To conclude on the trends seen in birth rates, it would be necessary for politicians to come up with interventions that make the society fit to the fertility, to avoid the descending birth rate going out of control.
 
 
 
@@ -94,4 +96,3 @@ This is our final project for 02806 - Social data analysis and visualization, wr
 * s183624
 * s204201
 * s194666
-
