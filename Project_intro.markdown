@@ -83,7 +83,7 @@ During recent years the women of modern societies have tried to break up the tra
 The data used in this project is from [Statistics Denmark](www.statistikbanken.dk).
 
 # Explainer notebook
-For some reason, when the notebook is hosted on nb-viewer some of the plots doesn't show. We have therefore included a link to the notebook on github, where all the plots are shown.
+For some reason, when the notebook is hosted on nb-viewer some of the plots doesn't show. We have therefore included a link to the notebook on github, where all the plots can be found.
 
 
 - [Link to Explainer notebook on nb-viewer](https://nbviewer.org/github/MathildeBlock/MathildeBlock.github.io/blob/main/explainer_notebook.ipynb)
