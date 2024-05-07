@@ -37,8 +37,8 @@ We wanted to investigate if women in different municipality.
 
 <iframe src="/Birth_percentage.html" width = "100%" height="800" style="overflow-x: hidden; overflow-y: hidden;"></iframe>
 
-<div style="width: 1250px; margin-left:-200px;">
-<iframe src="/Birth_percentage.html" width="1250px" height="800px"></iframe>
+<div style="width: 1200px; margin-left:-150px;">
+<iframe src="/Birth_percentage.html" width="1200px" height="800px"></iframe>
 </div>
 
 
@@ -47,8 +47,8 @@ Another aspect we wanted to investigate was the age of the mothers. As one of th
 
 <iframe src="/births_vs_age.html" width="1200" height="900" frameborder="0" style="overflow-x: hidden; overflow-y: hidden;"></iframe>
 
-<div style="width: 1250px; margin-left:-200px;">
-<iframe src="/births_vs_age.html" width="1250px" height="800px"></iframe>
+<div style="width: 1250px; margin-left:-100px; margin-bottom:-100px;">
+<iframe src="/births_vs_age.html" width="1000px" height="800px"></iframe>
 </div>
 
 
