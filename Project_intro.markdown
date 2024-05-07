@@ -45,7 +45,7 @@ To look more closely at the different municipalites, we have made an choropleth 
 Another aspect we wanted to investigate was the age of the mothers. As one of the arguments we hear often is that women wait too long to have children, which makes it harder to get pregnant naturally. We have made an interactive plot, where you can see the number of births for each age group - where the year can be changed. This plot can be seen below.
 
 
-<div style="width: 1250px; margin-left:-100px; margin-bottom:-100px;">
+<div style="width: 1300px; margin-left:-100px; margin-bottom:-100px;">
 <iframe src="/births_vs_age.html" width="1000px" height="800px"></iframe>
 </div>
 
