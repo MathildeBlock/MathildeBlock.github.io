@@ -56,9 +56,11 @@ This is also shown in the plot below, where we have calculated the mean age of t
 
 
 
+<iframe src="/mapplot.html" width="800" height="800" frameborder="0" style="overflow-x: hidden; overflow-y: auto;"></iframe>
 
 
 
+<iframe src="/scatter_map.html" width="800" height="800" frameborder="0" style="overflow-x: hidden; overflow-y: auto;"></iframe>
 
 
 
