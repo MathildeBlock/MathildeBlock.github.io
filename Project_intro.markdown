@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Evolution of Motherhood in Denmark
 permalink: /Project/
