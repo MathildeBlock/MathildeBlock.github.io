@@ -4,7 +4,6 @@ title: Evolution of Motherhood in Denmark
 permalink: /Project/
 ---
 
-
 ## Babydoom
 During the 2020’s the media has had a huge focus on the declining birth rate in Denmark as well as the ascent in the average age of birth giving women. In this project we will investigate this trend and delve into the regional patterns of child birth over time. We will look at data from the Danish statistics repository, Danmarks Statistik, with the aim of trying to find out if there are any patterns or correlations that can explain the declining birth rate. We will also look at the consequences of and reasons for the declining birth rate and discuss this downward trend.
 
